@@ -1,0 +1,6 @@
+{
+  "name": "名利场 (Vanity Fair)",
+  "description": "一款现代都市上流社会多线博弈恋爱文字模拟游戏，基于 React 加上 Three.js 打造高性能粒子奢华氛围，融合 Gemini 智能剧情引擎，在 30 天的高强度社交季中探索权力、欲望与情感的极致较量。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
